@@ -1,5 +1,5 @@
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
 <h1 align="center">Hi 👋, I'm Ryo Khrisna Fitriawan</h1>
 <h3 align="center">A passionate web and mobile developer</h3>
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryokf&show_icons=true&locale=en" alt="ryokf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryokf&" alt="ryokf" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
