@@ -1,5 +1,5 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://ryokf.github.io)
- 
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
 <h1 align="center">Hi 👋, I'm Ryo Khrisna Fitriawan</h1>
 <h3 align="center">A passionate web and mobile developer</h3>
 
